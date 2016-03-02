@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KitaTolong</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Settings</string>
+    <string name="drawer_closing">Settings</string>
+
+    <!--Content Description-->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <!--nav draw item-->
+    <string-array name="nav_draw_items">
+        <item>Home</item>
+        <item>Cari Warung</item>
+        <item>List Warung</item>
+        <item>Komentar</item>
+        <item>Setting</item>
+        <item>Whats hot</item>
+    </string-array>
+
+    <!--nav draw item icon-->
+    <string-array name="nav_draw_icon">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </string-array>
+</resources>
